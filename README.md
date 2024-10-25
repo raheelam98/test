@@ -41,6 +41,7 @@ poetry add python-multipart
 
 ```shell
 openssl rand -hex 16
+```
 
 ### Authentication
 
